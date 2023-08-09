@@ -1,15 +1,18 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "start": "Getting Started",
+  "usage": "Usage",
+  "pde": "PDEs",
+  "method": "Methods",
   "about": {
     "title": "About",
-    "type": "page"
+    "type": "page",
+    "display": "hidden"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contact",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "mailto:yaojc20@mails.tsinghua.edu.cn",
     "newWindow": true
   }
 }
