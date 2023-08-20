@@ -1,9 +1,8 @@
-# Namespace PINNacle
+# Namespace PINNacle.src
 
 ## Sub-modules
 
-- PINNacle.data
-- PINNacle.fbpinns
-- PINNacle.src
-- PINNacle.trainer
-- PINNacle.vpinn
+- PINNacle.src.model
+- PINNacle.src.optimizer
+- PINNacle.src.pde
+- PINNacle.src.utils
