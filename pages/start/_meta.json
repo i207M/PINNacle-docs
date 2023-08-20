@@ -1,4 +1,5 @@
 {
     "install": "Installation",
-    "usage": "Usage"
+    "usage": "Usage",
+    "cli": "CLI Help"
 }

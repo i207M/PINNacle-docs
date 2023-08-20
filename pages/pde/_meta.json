@@ -1,5 +1,11 @@
 {
     "burgers": "Burgers' Equation",
     "poisson": "Poisson Equation",
-    "parametric": "Parametric PDE"
+    "heat": "Heat Equation",
+    "ns": "Navier-Stokes Equation",
+    "wave": "Wave Equation",
+    "chaotic": "Chaotic Equation",
+    "inverse": "Inverse Problem",
+    "parametric": "Parametric PDE",
+    "create": "Create Your Own"
 }
