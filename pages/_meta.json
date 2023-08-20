@@ -1,14 +1,20 @@
 {
   "index": "Welcome",
-  "start": "Getting Started",
+  "getting-started": "Getting Started",
   "train": "Trainer",
-  "pde": "PDEs",
-  "method": "Methods",
-  "model": "Models",
-  "about": {
-    "title": "About",
+  "pde": "PDE",
+  "method": "Method",
+  "model": "Model",
+  "API": "API",
+  "_usage_": {
+    "title": "Usage",
     "type": "page",
-    "display": "hidden"
+    "href": "/getting-started/usage"
+  },
+  "_api_": {
+    "title": "API",
+    "type": "page",
+    "href": "/API"
   },
   "contact": {
     "title": "Contact",
