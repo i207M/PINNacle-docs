@@ -21,7 +21,7 @@ Our code is published [here](https://github.com/i207M/PINNacle).
 
 If you find out work useful, please cite our paper at:
 
-```
+```bibtex
 @article{hao2023pinnacle,
   title={PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs},
   author={Hao, Zhongkai and Yao, Jiachen and Su, Chang and Su, Hang and Wang, Ziao and Lu, Fanzhi and Xia, Zeyu and Zhang, Yichi and Liu, Songming and Lu, Lu and others},
@@ -32,7 +32,7 @@ If you find out work useful, please cite our paper at:
 
 We also suggest you have a look at the survey paper ([Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications](https://arxiv.org/abs/2211.08064)) about PINNs, neural operators, and other paradigms of PIML.
 
-```
+```bibtex
 @article{hao2022physics,
   title={Physics-informed machine learning: A survey on problems, methods and applications},
   author={Hao, Zhongkai and Liu, Songming and Zhang, Yichi and Ying, Chengyang and Feng, Yao and Su, Hang and Zhu, Jun},
