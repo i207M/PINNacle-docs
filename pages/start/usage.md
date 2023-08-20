@@ -87,11 +87,13 @@ model.train(iterations=10000, display_every=100, model_save_path='runs/experimen
 
 And you can use the results in the `runs` folder.
 
-## Submit and run a training task
+## Submit and run a task
 
-We provide a more convenient way to submit and run a training task. You can use the `Trainer` class to manage the training tasks. For example, to train the model for 10000 epochs, you can use the following code:
+We provide a more convenient way to submit and run training tasks on multiple GPUs. . You can use the `Trainer` class to manage the training tasks. For example, to train the model for 10000 epochs, you can use the following code:
 
 ```python
+from trainer import Trainer
+
 if __name__ == "__main__":
     # Trainer(name, device)
     trainer = Trainer("experiment", device="0")
