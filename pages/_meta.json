@@ -5,6 +5,7 @@
   "pde": "PDE",
   "method": "Method",
   "model": "Model",
+  "callback": "Callback",
   "API": "API",
   "_usage_": {
     "title": "Usage",
