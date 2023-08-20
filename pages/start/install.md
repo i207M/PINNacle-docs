@@ -1,10 +1,10 @@
-# Getting Started
+# Installation
 
 Here you can find the instructions to install and run PINNacle.
 
 ## Setup
 
-It is recommended to use a virtual environment to install PINNacle. For example, using [Anaconda](https://www.anaconda.com/products/individual) you can create a new environment with Python 3.8 as follows:
+It is recommended to use a virtual environment to install PINNacle. For example, using [Anaconda](https://www.anaconda.com/products/individual) you can create a new environment with Python 3.9 as follows:
 
 ```shell
 conda create -n pinnacle python=3.9

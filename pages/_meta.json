@@ -1,9 +1,10 @@
 {
   "index": "Welcome",
-  "start": "Installation",
-  "usage": "Usage",
+  "start": "Getting Started",
+  "train": "Trainer",
   "pde": "PDEs",
   "method": "Methods",
+  "model": "Models",
   "about": {
     "title": "About",
     "type": "page",
