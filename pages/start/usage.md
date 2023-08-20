@@ -119,6 +119,8 @@ trainer.train_all()
 trainer.summary()
 ```
 
+For more advanced usage, please refer to `benchmark.py`.
+
 ## Full code
 
 ```python
@@ -144,7 +146,11 @@ if __name__ == "__main__":
         LossCallback(),
     ]
 
-    trainer = Trainer("experiment", "0")
+    # Train without submitting a task
+    # model.train(iterations=10000, display_every=100, model_save_path='runs/experiment')
+
+    # Train with submitting a task
+    trainer = Trainer("experiment", device="0")
     trainer.add_task(
         lambda: model,
         {

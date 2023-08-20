@@ -41,7 +41,7 @@ This class is used to manage and execute training tasks.
 Initializes a `Trainer` instance.
 
 - `exp_name`: The name of the experiment.
-- `device`: The device(s) to use for training, provided as a comma-separated string (e.g., 'cuda:0,cuda:1').
+- `device`: The device(s) to use for training, provided as a comma-separated string (e.g., '0,1') or 'cpu'.
 
 #### `set_repeat(self, repeat)`
 
@@ -73,4 +73,4 @@ Trains all tasks in the queue in parallel, using multiple devices.
 
 #### `summary(self)`
 
-Generates a summary of the experiment. This method requires a `summary` function from the `src.utils` module, which is not provided in the script.
+Generates a summary of the experiment.
