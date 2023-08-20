@@ -1,6 +1,6 @@
 {
   "index": "Welcome",
-  "getting-started": "Getting Started",
+  "start": "Getting Started",
   "train": "Trainer",
   "pde": "PDE",
   "method": "Method",
