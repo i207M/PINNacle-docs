@@ -1,4 +1,5 @@
 {
     "burgers": "Burgers' Equation",
-    "poisson": "Poisson Equation"
+    "poisson": "Poisson Equation",
+    "parametric": "Parametric PDEs"
 }
