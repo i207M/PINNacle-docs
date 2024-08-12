@@ -1,0 +1,6 @@
+{
+    "model": "Model",
+    "optimizer": "Optimizer",
+    "pde": "PDE",
+    "utils": "Utils"
+}

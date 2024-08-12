@@ -2,7 +2,7 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
-  logo: <span>PINNacle</span>,
+  logo: <span><big><b>PINN</b></big>acle</span>,
   project: {
     link: 'https://github.com/i207M/PINNacle',
   },

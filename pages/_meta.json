@@ -12,10 +12,10 @@
     "type": "page",
     "href": "/start/usage"
   },
-  "_api_": {
-    "title": "API",
+  "_define_": {
+    "title": "🌈 Define Your Own PDE",
     "type": "page",
-    "href": "/API"
+    "href": "/pde/create"
   },
   "contact": {
     "title": "Contact",
