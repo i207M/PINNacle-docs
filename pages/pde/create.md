@@ -10,7 +10,8 @@ First, import the necessary libraries and the `BasePDE` class:
 import numpy as np
 import torch
 import deepxde as dde
-from . import baseclass
+
+from PINNacle.src.pde import baseclass
 ```
 
 ## Step 1: Define Your PDE Class
