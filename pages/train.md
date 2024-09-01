@@ -1,6 +1,6 @@
 ## Trainer
 
-This script provides a framework for training deep learning models using the DeepXDE library. It supports both single and multiple GPU devices and allows for the repetition of training tasks.
+This script provides a framework for training deep learning models, supporting both single and multiple GPU devices and enabling the repetition of training tasks.
 
 ## Classes and Functions
 
