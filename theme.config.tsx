@@ -6,13 +6,15 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/i207M/PINNacle',
   },
-  // chat: {
-  //   link: 'https://discord.com',
-  // },
   docsRepositoryBase: 'https://github.com/i207M/PINNacle-docs',
   footer: {
     text: 'Docs for PINNacle',
   },
+  head: (
+    <>
+      <link rel="icon" href="/pinn.ico" type="image/x-icon"></link>
+    </>
+  )
 }
 
 export default config
